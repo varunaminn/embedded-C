@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "author": "Anonymous maker",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 0, "left": 0, "attrs": {} },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn1",
+      "top": -70.6,
+      "left": -105.6,
+      "attrs": { "color": "green", "xray": "1" }
+    }
+  ],
+  "connections": [
+    [ "btn1:2.r", "uno:GND.1", "green", [ "h153.8", "v38.6", "h0" ] ],
+    [ "btn1:1.r", "uno:2", "green", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
