@@ -11,3 +11,9 @@ A simple Arduino project to blink an LED using C.
 - Simulated on [Wokwi](https://wokwi.com/projects/439644511367629825).
 - Hardware: Arduino Uno
 - Language: C
+
+  ## Sensor UART Project
+A project to send simulated temperature data to the serial monitor using C.
+- Simulated on [Wokwi](https://wokwi.com/projects/440006438532445185).
+- Hardware: Arduino Uno
+- Language: C
