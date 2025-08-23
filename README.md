@@ -17,3 +17,9 @@ A project to send simulated temperature data to the serial monitor using C.
 - Simulated on [Wokwi](https://wokwi.com/projects/440006438532445185).
 - Hardware: Arduino Uno
 - Language: C
+
+## PWM LED Brightness Project
+A project to control LED brightness using PWM in C.
+- Simulated on [Wokwi](https://wokwi.com/projects/440070762446521345).
+- Hardware: Arduino Uno
+- Language: C
